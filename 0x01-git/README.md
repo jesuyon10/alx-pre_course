@@ -1,1 +1,1 @@
-My second directory
+this is my second repository
